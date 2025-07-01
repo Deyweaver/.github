@@ -51,6 +51,36 @@ Let’s talk open-source, productivity, and ethical AI.
 
 ---
 
+## 🏆 Sponsors & Supporters
+
+We’re incredibly grateful to the organizations, companies, and schools that support our mission. Their contributions — in infrastructure, tools, and visibility — help us keep DeyWeaver open and free for everyone.
+
+### 🖥️ Tech Infrastructure Partners
+These companies provide us with essential backend services, cloud hosting, development tools, or platform support.
+
+![Tech Infrastructure Sponsors](https://ibb.co/zTB0YsL1)
+
+---
+
+### 🤝 Corporate Partners
+Our corporate allies contribute in-kind support, mentorship, tools, and outreach — helping us scale ethically and sustainably.
+
+![Corporate Sponsors](https://ibb.co/LzcDtP6H)
+
+---
+
+### 🎓 Universities & Academic Supporters
+We thank these academic institutions and student programs for their encouragement, collaborations, and resource sharing.
+
+![Academic Sponsors]([https://yourdomain.com/images/academic-sponsors.png](https://ibb.co/1Jm5FJjz))
+
+---
+
+> Want to support our mission and be featured here? [Get in touch](mailto:aryanbrite@gmail.com) — we’d love to collaborate.
+
+
+---
+
 ## 📫 Connect with Us
 
 - 🔗 GitHub: [github.com/deyweaver](https://github.com/deyweaver)  
