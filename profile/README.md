@@ -58,21 +58,21 @@ We’re incredibly grateful to the organizations, companies, and schools that su
 ### 🖥️ Tech Infrastructure Partners
 These companies provide us with essential backend services, cloud hosting, development tools, or platform support.
 
-![Tech Infrastructure Sponsors](https://ibb.co/zTB0YsL1)
+![Tech Infrastructure Sponsors](https://i.ibb.co/sdNMGjDh/Untitled-design-1.png)
 
 ---
 
 ### 🤝 Corporate Partners
 Our corporate allies contribute in-kind support, mentorship, tools, and outreach — helping us scale ethically and sustainably.
 
-![Corporate Sponsors](https://ibb.co/LzcDtP6H)
+![Corporate Sponsors](https://i.ibb.co/BVQHZPjF/Untitled-design-2.png)
 
 ---
 
 ### 🎓 Universities & Academic Supporters
 We thank these academic institutions and student programs for their encouragement, collaborations, and resource sharing.
 
-![Academic Sponsors]([https://yourdomain.com/images/academic-sponsors.png](https://ibb.co/1Jm5FJjz))
+![Academic Sponsors](https://i.ibb.co/Gf6jR8w6/Untitled-design-5.png)
 
 ---
 
