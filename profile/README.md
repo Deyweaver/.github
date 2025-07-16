@@ -28,8 +28,8 @@ These are some projects DeyWeaver is actively working on right now:
 - **DeyWeaver Planner** — [GitHub Repo](https://github.com/deyweaver/deyweaver)  
   An AI-powered task planner that intelligently organizes your day.
 
-- **Task Brain** — [GitHub Repo](https://github.com/deyweaver/task-brain)  
-  A personal AI brain that adapts to your reasoning style and challenges your thinking.
+- **UIgenie** — [GitHub Repo](https://github.com/Deyweaver/UIgenie)  
+  A beautiful, AI-powered Python GUI builder that turns ideas into interfaces instantly.
 
 </details>
 
@@ -41,14 +41,14 @@ These are some projects DeyWeaver is actively working on right now:
 DeyWeaver works not just on its own projects, but also collaborates with other open-source initiatives that share the same mission.  
 We help integrate AI into these tools — especially if they aim to remain free and accessible to all.
 
-- **LibreTime AI** — [GitHub Repo](https://github.com/libretime/libretime)  
-  We're helping integrate scheduling AI for community radio automation.
+- **vscodium** — [GitHub Repo](https://github.com/VSCodium/vscodium)  
+  Binary releases of VS Code without MS branding/telemetry/licensing
 
-- **OpenJournal** — [GitHub Repo](https://github.com/openjournalsystem/ojserver)  
-  Assisting with intelligent peer-review suggestions and editorial workflow.
+- **Numerology App** — [GitHub Repo](https://github.com/aryan6673/Numerology-App)  
+  An algorithm to calculate numerology numbers from names or birthdates using Python.
 
-- **TimeVault** — [GitHub Repo](https://github.com/TimeVaultAI/core)  
-  Contributing AI-driven time-blocking and focus mode logic.
+- **NoteScape** — [GitHub Repo](https://github.com/maheshpaulj/NoteScape-2.0)  
+  AI-powered note-taking app that combines real-time collaboration with intelligent features.
 
 </details>
 
@@ -64,7 +64,7 @@ If you vibe with **open source + AI**, come on board!
 ## 💬 Got Questions or Ideas?  
 ### **Book a 15-Minute Chat with Our Founder**  
 Have ideas, feedback, or just want to talk **open-source productivity & ethical AI**?  
-➡️ **[Schedule a casual 15-min call here](your-calendar-link)**  
+➡️ **[Schedule a casual 15-min call here]([your-calendar-link](https://calendly.com/aryanbrite/30min))**  
 
 ---
 <h2>🏛 Our Nonprofit Status</h2>
@@ -116,7 +116,7 @@ We thank these academic institutions and student programs for their encouragemen
 ---
 
 ## 📬 Connect  
-🌐 [Website](https://www.deyweaver.live) | 💻 [GitHub](https://github.com/aryan6673) | 📧 [aryan@deyweaver.live](mailto:aryan@deyweaver.live)  
+🌐 [Website](https://www.deyweaver.live) | 💻 [GitHub](https://github.com/aryan6673) | 📧 [Email](mailto:aryan@deyweaver.live)  
 
 ---
 
