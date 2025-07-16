@@ -1,53 +1,87 @@
-# DeyWeaver Foundation
+#  **DeyWeaver Foundation**
+**Free, ethical AI for productivity — open-source, nonprofit, and forever accessible.**  
 
-**Free, ethical AI for productivity — open-source, nonprofit, and forever accessible.**
-
-The **DeyWeaver Foundation** is a nonprofit organization creating open-source, AI-powered productivity tools that anyone can use — with zero ads, zero fees, and zero compromises on privacy.
 
 ---
 
-## 🚀 Our Mission
+##  Who We Are  
+DeyWeaver = **AI + Open Source + Zero Cost**.  
+We build **AI-powered productivity tools** for **students, techies, and pros**. Everything is **100% free** – even if cloud bills hate us.  
 
-We exist to build technology that works for the people — not against them. Our mission:
-
-- 🧠 Develop intelligent planning tools using responsible AI  
-- 🌍 Keep software free and accessible to all, regardless of background  
-- 🔓 Support the open-source ecosystem and ethical innovation  
-- 🔐 Respect user privacy — no data tracking, no monetization  
-- 💡 Empower students, professionals, and creators to stay organized  
+We also **research AI** and publish findings openly, because knowledge should flow free.
 
 ---
 
-## 🛠️ Projects
+##  What Makes Us Different?
+-  **Free. Forever.** No paywalls. No tricks.  
+-  **MIT License** → Fork it, remix it, ship it.  
+-  **Cool Projects + Ethical AI Research** that actually matters.  
 
-### 🔷 [DeyWeaver Task Planner](https://github.com/deyweaver/deyweaver)  
-An AI-powered, natural-language task manager designed to help users plan their day seamlessly. Smart, synced, and ad-free — forever.
+---
+##  Projects
 
-Planned future tools:
-- 📅 Smart calendar & habit tracker  
-- 🗃️ Lightweight knowledge base & journaling app  
-- ✅ Offline-first productivity tools with privacy by design  
+<details>
+<summary> Our Open Source Projects</summary>
+
+These are some projects DeyWeaver is actively working on right now:
+
+- **DeyWeaver Planner** — [GitHub Repo](https://github.com/deyweaver/deyweaver)  
+  An AI-powered task planner that intelligently organizes your day.
+
+- **Task Brain** — [GitHub Repo](https://github.com/deyweaver/task-brain)  
+  A personal AI brain that adapts to your reasoning style and challenges your thinking.
+
+</details>
+
+<br/>
+
+<details>
+<summary> Work-Sponsored Projects</summary>
+
+DeyWeaver works not just on its own projects, but also collaborates with other open-source initiatives that share the same mission.  
+We help integrate AI into these tools — especially if they aim to remain free and accessible to all.
+
+- **LibreTime AI** — [GitHub Repo](https://github.com/libretime/libretime)  
+  We're helping integrate scheduling AI for community radio automation.
+
+- **OpenJournal** — [GitHub Repo](https://github.com/openjournalsystem/ojserver)  
+  Assisting with intelligent peer-review suggestions and editorial workflow.
+
+- **TimeVault** — [GitHub Repo](https://github.com/TimeVaultAI/core)  
+  Contributing AI-driven time-blocking and focus mode logic.
+
+</details>
+
+---
+##  Want to Join?  
+If you vibe with **open source + AI**, come on board!  
+- **Volunteer / Fellowship** → Build stuff, learn, and get real IT experience.  
+- No age limit. Just curiosity & creativity.  
+📧 **Email:** [aryan@deyweaver.live](mailto:aryan@deyweaver.live)  
 
 ---
 
-## 🤝 Join the Mission
-
-We welcome:
-- Developers & designers to contribute  
-- Sponsors who believe in open, ethical AI  
-- Community testers & advocates  
-
-> We are proudly applying for nonprofit recognition to unlock infrastructure support through GitHub, Google, Azure, and more — not to raise direct funding.
+## 💬 Got Questions or Ideas?  
+### **Book a 15-Minute Chat with Our Founder**  
+Have ideas, feedback, or just want to talk **open-source productivity & ethical AI**?  
+➡️ **[Schedule a casual 15-min call here](your-calendar-link)**  
 
 ---
+<h2>🏛 Our Nonprofit Status</h2>
 
-## ☕ 15-Minute Chat with the Founder
+<p align="center">
+  DeyWeaver is a fiscally sponsored nonprofit based in Los Angeles, CA 90017, USA, under IRS 501(c)(3) tax-exempt status.
+</p>
 
-Have questions? Ideas? Feedback?  
-Book a **15-minute casual call** with our founder here:  
-👉 [CHAT](https://calendly.com/aryanbrite/30min)
+<p align="center"><strong>Sponsored by:</strong></p>
 
-Let’s talk open-source, productivity, and ethical AI.
+<p align="center">
+  <a href="https://www.ifers.org">
+    <img src="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-ipage-v1-0-1%2F751%2F451751%2FhQFxPE7N%2F3038f494ae4b45a7b338aa97fe1c7619&methods=resize%2C500%2C5000" alt="IFERS Logo" width="50" style="border-radius: 50%;"><br/>
+    Institute of Education, Research & Scholarship (IFERS)
+  </a>
+</p>
+
 
 ---
 
@@ -81,15 +115,13 @@ We thank these academic institutions and student programs for their encouragemen
 
 ---
 
-## 📫 Connect with Us
-
-- 🔗 GitHub: [github.com/deyweaver](https://github.com/deyweaver)  
-- 🌍 Website: deyweaver.live
-- ✉️ Email: [Aryan](aryanbrite@gmail.com)
+## 📬 Connect  
+🌐 [Website](https://www.deyweaver.live) | 💻 [GitHub](https://github.com/aryan6673) | 📧 [aryan@deyweaver.live](mailto:aryan@deyweaver.live)  
 
 ---
 
-> We’re here to prove that powerful technology doesn't have to come at a cost.  
-> **Built by the community. Owned by no one. Free for everyone.**
+## 🌟 Our Promise  
+We’re here to prove that **powerful technology doesn’t have to come at a cost**.  
+**Built by the community, owned by no one, free for everyone.**  
 
-— **The DeyWeaver Foundation**
+**The DeyWeaver Foundation**
