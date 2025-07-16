@@ -64,7 +64,7 @@ If you vibe with **open source + AI**, come on board!
 ## 💬 Got Questions or Ideas?  
 ### **Book a 15-Minute Chat with Our Founder**  
 Have ideas, feedback, or just want to talk **open-source productivity & ethical AI**?  
-➡️ **[Schedule a casual 15-min call here]([your-calendar-link](https://calendly.com/aryanbrite/30min))**  
+➡️ **[Schedule a casual 15-min call here](https://calendly.com/aryanbrite/30min)**
 
 ---
 <h2>🏛 Our Nonprofit Status</h2>
