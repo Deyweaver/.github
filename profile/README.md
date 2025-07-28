@@ -106,7 +106,7 @@ Our corporate allies contribute in-kind support, mentorship, tools, and outreach
 ### 🎓 Universities & Academic Supporters
 We thank these academic institutions and student programs for their encouragement, collaborations, and resource sharing.
 
-![Academic Sponsors](https://i.ibb.co/mrRSrvXw/Untitled-design-8.png)
+![Academic Sponsors]()
 
 ---
 
