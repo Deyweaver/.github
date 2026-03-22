@@ -61,13 +61,13 @@ If you vibe with **open source + AI**, come on board!
 
 ---
 
-## 💬 Got Questions or Ideas?  
+##  Got Questions or Ideas?  
 ### **Book a 15-Minute Chat with Our Founder**  
 Have ideas, feedback, or just want to talk **open-source productivity & ethical AI**?  
-➡️ **[Schedule a casual 15-min call here](https://calendly.com/aryanbrite/30min)**
+ **[Schedule a casual 15-min call here](https://calendly.com/aryanbrite/30min)**
 
 ---
-<h2>🏛 Our Nonprofit Status</h2>
+<h2> Our Nonprofit Status</h2>
 
 <p align="center">
   DeyWeaver is a fiscally sponsored nonprofit based in Los Angeles, CA 90017, USA, under IRS 501(c)(3) tax-exempt status.
@@ -85,25 +85,25 @@ Have ideas, feedback, or just want to talk **open-source productivity & ethical 
 
 ---
 
-## 🏆 Sponsors & Supporters
+##  Sponsors & Supporters
 
 We’re incredibly grateful to the organizations, companies, and schools that support our mission. Their contributions — in infrastructure, tools, and visibility — help us keep DeyWeaver open and free for everyone.
 
-### 🖥️ Tech Infrastructure Partners
+###  Tech Infrastructure Partners
 These companies provide us with essential backend services, cloud hosting, development tools, or platform support.
 
 ![Tech Infrastructure Sponsors](https://i.ibb.co/sdNMGjDh/Untitled-design-1.png)
 
 ---
 
-### 🤝 Corporate Partners
+###  Corporate Partners
 Our corporate allies contribute in-kind support, mentorship, tools, and outreach — helping us scale ethically and sustainably.
 
 ![Corporate Sponsors](https://i.ibb.co/BVQHZPjF/Untitled-design-2.png)
 
 ---
 
-### 🎓 Universities & Academic Supporters
+###  Universities & Academic Supporters
 We thank these academic institutions and student programs for their encouragement, collaborations, and resource sharing.
 
 ![Academic Sponsors](https://raw.githubusercontent.com/Deyweaver/.github/refs/heads/main/profile/assets/Untitled-design-8.png)
@@ -115,12 +115,12 @@ We thank these academic institutions and student programs for their encouragemen
 
 ---
 
-## 📬 Connect  
+##  Connect  
 🌐 [Website](https://www.deyweaver.live) | 💻 [GitHub](https://github.com/aryan6673) | 📧 [Email](mailto:aryan@deyweaver.live)  
 
 ---
 
-## 🌟 Our Promise  
+##  Our Promise  
 We’re here to prove that **powerful technology doesn’t have to come at a cost**.  
 **Built by the community, owned by no one, free for everyone.**  
 
