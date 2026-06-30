@@ -1,6 +1,6 @@
 #  **DeyWeaver Foundation**
 **Free, ethical AI for productivity — open-source, nonprofit, and forever accessible.**  
-
+# This project is temporarily closed due to insufficient amount of donations :(
 
 ---
 
