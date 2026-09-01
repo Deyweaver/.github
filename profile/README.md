@@ -18,39 +18,6 @@ We also **research AI** and publish findings openly, because knowledge should fl
 -  **Cool Projects + Ethical AI Research** that actually matters.  
 
 ---
-##  Projects
-
-<details>
-<summary> Our Open Source Projects</summary>
-
-These are some projects DeyWeaver is actively working on right now:
-
-- **DeyWeaver Planner** — [GitHub Repo](https://github.com/deyweaver/deyweaver)  
-  An AI-powered task planner that intelligently organizes your day.
-
-- **UIgenie** — [GitHub Repo](https://github.com/Deyweaver/UIgenie)  
-  A beautiful, AI-powered Python GUI builder that turns ideas into interfaces instantly.
-
-</details>
-
-<br/>
-
-<details>
-<summary> Work-Sponsored Projects</summary>
-
-DeyWeaver works not just on its own projects, but also collaborates with other open-source initiatives that share the same mission.  
-We help integrate AI into these tools — especially if they aim to remain free and accessible to all.
-
-- **vscodium** — [GitHub Repo](https://github.com/VSCodium/vscodium)  
-  Binary releases of VS Code without MS branding/telemetry/licensing
-
-- **Numerology App** — [GitHub Repo](https://github.com/aryan6673/Numerology-App)  
-  An algorithm to calculate numerology numbers from names or birthdates using Python.
-
-- **NoteScape** — [GitHub Repo](https://github.com/maheshpaulj/NoteScape-2.0)  
-  AI-powered note-taking app that combines real-time collaboration with intelligent features.
-
-</details>
 
 ---
 ##  Want to Join?  
